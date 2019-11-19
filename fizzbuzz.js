@@ -10,7 +10,7 @@ else if ( i % 5 == 0 ){
     output("Buzz");
 }
 else if ( i % 3 == 0 && i % 5 == 0 ){
-    output ("FizzBuzz")
+    output ("FizzBuzz");
 }
 else {
     output ( i );
